@@ -40,6 +40,6 @@ pip install -r requirements.txt
 - 📊 Users can give the query and get the recommended images from previously Wardrobe images and recommendation links to buy products from Macy's Online store
 
 
-[AlgoDM-Team 5] 🧑‍💻
+[AlgoDM-Team 5] 
 
-# Project-Team 5
+
